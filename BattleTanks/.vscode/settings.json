@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/andre/Documents/Personal/unreal-tanks/BattleTanks/Content": true,
+		"/Users/andre/Documents/Personal/unreal-tanks/BattleTanks/.vscode": true,
+		"/Users/andre/Documents/Personal/unreal-tanks/BattleTanks/Intermediate": true
+	}
+}
